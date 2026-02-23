@@ -5,7 +5,7 @@ The application helps users select suitable makeup products based on brand prefe
 
 ---
 
-## 📌 Features
+## Features
 - Browse makeup products using external Makeup API
 - Filter products by brand
 - Budget-based product filtering
@@ -15,13 +15,13 @@ The application helps users select suitable makeup products based on brand prefe
 
 ---
 
-## 🔗 External API
+## External API
 Makeup API  
 http://makeup-api.herokuapp.com/api/v1/products.json
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 - Electron.js
 - HTML
 - CSS
@@ -30,7 +30,7 @@ http://makeup-api.herokuapp.com/api/v1/products.json
 
 ---
 
-## ▶ How to Run the Application
+## How to Run the Application
 1. Install dependencies:
    ```bash
    npm install
