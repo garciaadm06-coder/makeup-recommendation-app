@@ -1,0 +1,12 @@
+{
+  "name": "makeup-recommendation-app",
+  "version": "1.0.0",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^40.2.1"
+  }
+}
